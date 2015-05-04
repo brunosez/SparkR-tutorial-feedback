@@ -2,6 +2,7 @@
 Feedback on SparkR tutorial
 
 Experiment from this tuto from amplab
+https://github.com/amplab-extras/SparkR-pkg/wiki/SparkR-Quick-Start
 
 My config is Ubuntu 14.10 and RStudio
 
