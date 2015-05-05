@@ -20,7 +20,7 @@ It was OK to run :
 
 ./sparkR examples/pi.R local , which is the classical "Monte-Carlo" computation of PI.
 
-I need know to load the package in R
+Now , I need to load the package in R (TBD)  
 
 For spark I use simply a standalone install coming from apache foundation
 spark-1.3.1-bin-hadoop2.6
