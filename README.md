@@ -15,6 +15,10 @@ Finally it wors on the command line with
 the cmd install-dev.sh
 It does a lot of thing and may be download a lot of jar more or less compatible with my existing
 Spark/Hadoop local install....
+It was OK to run :
+./sparkR examples/pi.R local , which is the classical "Monte-Carlo" computation of PI.
+
+I need know to load the package in R
 
 For spark I use simply a standalone install coming from apache foundation
 spark-1.3.1-bin-hadoop2.6
