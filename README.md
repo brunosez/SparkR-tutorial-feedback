@@ -11,11 +11,13 @@ JavaR
 SparkR
 
 For JavaR, it was ok to install inside RStudio, for SparkR it fails.
-Finally it wors on the command line with
-the cmd install-dev.sh
+Finally it wors on the command line with the cmd install-dev.sh  
+
 It does a lot of thing and may be download a lot of jar more or less compatible with my existing
-Spark/Hadoop local install....
-It was OK to run :
+Spark/Hadoop local install....  
+
+It was OK to run :  
+
 ./sparkR examples/pi.R local , which is the classical "Monte-Carlo" computation of PI.
 
 I need know to load the package in R
