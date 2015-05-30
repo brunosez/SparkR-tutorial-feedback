@@ -42,4 +42,4 @@ In R, you need to load SparkR package from your local (re-build) package. a give
  
  
 
-Note SparkR will be directly included in Spark V1.4 coming in summer 2015
+**Note SparkR will be directly included in Spark V1.4 coming in summer 2015**
