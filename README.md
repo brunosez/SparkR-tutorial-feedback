@@ -34,7 +34,8 @@ Don't forget to change the /home/cloudera path to the relevant path on your inst
 In R, you need to load SparkR package from your local (re-build) package. a given script create
  the .Rprofile file.
  
- On Rstudio you initialize Spark R with 
+ On Rstudio you initialize Spark R with
+ 
  library(SparkR)
  
  sc <- sparkR.init(master="local")
